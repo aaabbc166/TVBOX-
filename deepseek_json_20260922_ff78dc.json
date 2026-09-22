@@ -59,7 +59,7 @@
     },
     {
       "key": "apilsbzy1",
-      "name": "apilsbzy1",
+      "name": "老色B资源",
       "type": 1,
       "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -68,9 +68,27 @@
     },
     {
       "key": "slapibf",
-      "name": "slapibf",
+      "name": "森林资源",
       "type": 1,
       "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "115zy",
+      "name": "115资源",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "大奶子",
+      "name": "大奶子",
+      "type": 1,
+      "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
