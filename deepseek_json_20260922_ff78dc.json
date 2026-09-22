@@ -1,0 +1,155 @@
+{
+  "spider": "https://gitlab.com/gao777520/tvbox-config/raw/main/jar/spider.jar",
+  "wallpaper": "https://bing.img.run/rand.php",
+  "warningText": "本配置仅供学习测试，请于24小时内删除，勿用于商业用途。",
+  "sites": [
+    {
+      "key": "heimuer",
+      "name": "木耳影视",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ffzy",
+      "name": "非凡影视",
+      "type": 1,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lziapi",
+      "name": "量子资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wujinapi",
+      "name": "无尽资源",
+      "type": 1,
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "360zy",
+      "name": "360资源",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "lives": [
+    {
+      "name": "国内高清IPTV",
+      "type": 0,
+      "url": "https://raw.kkgithub.com/jisoypub/iptv/master/cn_all.m3u",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "央视频专线",
+      "type": 0,
+      "url": "https://m3u.ibert.me/j_home.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "Yoursmile直播",
+      "type": 0,
+      "url": "https://cdn.gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "parses": [
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "https://yparse.ik9.cc/index.php?url="
+    },
+    {
+      "name": "Json并发",
+      "type": 2,
+      "url": "Parallel"
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "OK解析",
+      "type": 0,
+      "url": "https://okjx.cc/?url="
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "renrenmi"
+  ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        { "category": 4, "name": "opensles", "value": "0" },
+        { "category": 4, "name": "overlay-format", "value": "842225234" },
+        { "category": 4, "name": "framedrop", "value": "1" },
+        { "category": 4, "name": "soundtouch", "value": "1" },
+        { "category": 4, "name": "start-on-prepared", "value": "1" },
+        { "category": 1, "name": "http-detect-range-support", "value": "0" },
+        { "category": 1, "name": "fflags", "value": "fastseek" },
+        { "category": 2, "name": "skip_loop_filter", "value": "48" },
+        { "category": 4, "name": "reconnect", "value": "1" },
+        { "category": 4, "name": "enable-accurate-seek", "value": "0" },
+        { "category": 4, "name": "mediacodec", "value": "0" },
+        { "category": 4, "name": "mediacodec-auto-rotate", "value": "0" },
+        { "category": 4, "name": "mediacodec-handle-resolution-change", "value": "0" },
+        { "category": 4, "name": "mediacodec-hevc", "value": "0" },
+        { "category": 1, "name": "dns_cache_timeout", "value": "600000000" }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        { "category": 4, "name": "opensles", "value": "0" },
+        { "category": 4, "name": "overlay-format", "value": "842225234" },
+        { "category": 4, "name": "framedrop", "value": "1" },
+        { "category": 4, "name": "soundtouch", "value": "1" },
+        { "category": 4, "name": "start-on-prepared", "value": "1" },
+        { "category": 1, "name": "http-detect-range-support", "value": "0" },
+        { "category": 1, "name": "fflags", "value": "fastseek" },
+        { "category": 2, "name": "skip_loop_filter", "value": "48" },
+        { "category": 4, "name": "reconnect", "value": "1" },
+        { "category": 4, "name": "enable-accurate-seek", "value": "0" },
+        { "category": 4, "name": "mediacodec", "value": "1" },
+        { "category": 4, "name": "mediacodec-auto-rotate", "value": "1" },
+        { "category": 4, "name": "mediacodec-handle-resolution-change", "value": "1" },
+        { "category": 4, "name": "mediacodec-hevc", "value": "1" },
+        { "category": 1, "name": "dns_cache_timeout", "value": "600000000" }
+      ]
+    }
+  ]
+}
