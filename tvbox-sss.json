@@ -75,15 +75,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "vnzyz",
-      "name": "越南",
-      "type": 1,
-      "api": "https://api.vnzyz.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     }
   ],
   "lives": [
