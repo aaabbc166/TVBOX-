@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitlab.com/gao777520/tvbox-config/raw/main/jar/spider.jar",
+  "spider": "https://raw.githubusercontent.com/aaabbc166/TVBOX-/main/jar/spider.jar",
   "wallpaper": "https://bing.img.run/rand.php",
   "warningText": "本配置仅供学习测试，请于24小时内删除，勿用于商业用途。",
   "sites": [
