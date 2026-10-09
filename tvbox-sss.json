@@ -201,86 +201,6 @@
       "filterable": 1
     },
     {
-      "key": "hipy_js_7猫小说[书]",
-      "name": "7猫｜小说",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/7%E7%8C%AB%E5%B0%8F%E8%AF%B4%5B%E4%B9%A6%5D.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "优酷视频",
-      "name": "优酷｜官源",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "hipy_js_六月听书[听]",
-      "name": "六月｜听书",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E5%85%AD%E6%9C%88%E5%90%AC%E4%B9%A6%5B%E5%90%AC%5D.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "hipy_js_北川影视",
-      "name": "北川｜影视",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E5%8C%97%E5%B7%9D%E5%BD%B1%E8%A7%86.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "hipy_js_博看听书[听]",
-      "name": "博看｜听书",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E5%8D%9A%E7%9C%8B%E5%90%AC%E4%B9%A6%5B%E5%90%AC%5D.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "哔哩视频",
-      "name": "哔哩｜官源",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "多多网盘",
-      "name": "多多｜网盘",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E5%A4%9A%E5%A4%9A%E7%BD%91%E7%9B%98.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "奇米动漫",
-      "name": "奇米｜动漫",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E5%A5%87%E7%B1%B3%E5%8A%A8%E6%BC%AB.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "搜狗视频",
       "name": "搜狗｜官源",
       "type": 3,
@@ -291,151 +211,11 @@
       "filterable": 1
     },
     {
-      "key": "星辰[优]_js",
-      "name": "星辰｜影视",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E6%98%9F%E8%BE%B0%5B%E4%BC%98%5D.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "木偶哥哥",
-      "name": "木偶｜网盘",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E6%9C%A8%E5%81%B6%E5%93%A5%E5%93%A5%5B%E7%9B%98%5D.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "樱花动漫",
-      "name": "樱花｜动漫",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "欧歌网盘",
-      "name": "欧歌｜网盘",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E6%AC%A7%E6%AD%8C%E7%BD%91%E7%9B%98.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "爱奇艺",
       "name": "爱奇艺｜官源",
       "type": 3,
       "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
       "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E7%88%B1%E5%A5%87%E8%89%BA.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "瓜子",
-      "name": "瓜子｜影视",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E7%93%9C%E5%AD%90.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "hipy_js_番茄小说[书]",
-      "name": "番茄｜小说",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E7%95%AA%E8%8C%84%E5%B0%8F%E8%AF%B4%5B%E4%B9%A6%5D.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "磁力熊",
-      "name": "磁力熊｜磁力",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E7%A3%81%E5%8A%9B%E7%86%8A.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "hipy_js_老白故事[听]",
-      "name": "老白｜听书",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E8%80%81%E7%99%BD%E6%95%85%E4%BA%8B%5B%E5%90%AC%5D.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "腾讯视频",
-      "name": "腾讯｜官源",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "hipy_js_至臻[盘]",
-      "name": "至臻｜网盘",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E8%87%B3%E8%87%BB%5B%E7%9B%98%5D.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "芒果视频",
-      "name": "芒果｜官源",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E8%8A%92%E6%9E%9C%E8%A7%86%E9%A2%91.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "hipy_js_蜡笔[盘]",
-      "name": "蜡笔｜网盘",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E8%9C%A1%E7%AC%94%5B%E7%9B%98%5D.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "路漫漫",
-      "name": "路漫漫｜动漫",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E8%B7%AF%E6%BC%AB%E6%BC%AB.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "魔力高清",
-      "name": "魔力｜影视",
-      "type": 3,
-      "api": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_libs/drpy2.min.js",
-      "ext": "https://github.ednovas.xyz/https://github.com/Fanc9527/zytvbox/blob/main/zy_js/%E9%AD%94%E5%8A%9B%E9%AB%98%E6%B8%85.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -520,21 +300,6 @@
       "url": "https://www.playm3u8.cn/jiexi.php?url="
     },
     {
-      "name": "线路1",
-      "type": 1,
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "线路1",
-      "type": 1,
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "线路2",
-      "type": 1,
-      "url": "https://jx.quankan.app/?url="
-    },
-    {
       "name": "线路3",
       "type": 1,
       "url": "https://jx.yparse.com/index.php?url="
@@ -543,36 +308,6 @@
       "name": "线路3",
       "type": 1,
       "url": "https://jx.yparse.com/index.php?url="
-    },
-    {
-      "name": "线路4",
-      "type": 1,
-      "url": "https://jx.aidouer.net/?url="
-    },
-    {
-      "name": "线路5",
-      "type": 1,
-      "url": "https://www.8090g.cn/?url="
-    },
-    {
-      "name": "线路6",
-      "type": 1,
-      "url": "https://jx.yangtu.top?url="
-    },
-    {
-      "name": "线路7",
-      "type": 1,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
-      "name": "线路8",
-      "type": 1,
-      "url": "https://www.ckplayer.vip/jiexi/?url="
-    },
-    {
-      "name": "虾米",
-      "type": 1,
-      "url": "https://jx.xmflv.com/?url="
     }
   ],
   "flags": [
